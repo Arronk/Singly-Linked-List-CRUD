@@ -8,6 +8,6 @@ I didn't want  to go far with the user input controls but there are controls to 
 If somebody else learning linked lists stumbles across this and needs a hand please feel free to contact me at:
 
 - arron_kennedy@hotmail.com
-- @azathecoder (Twitter)
+- [@azathecoder on Twitter](https://twitter.com/azathecoder)
 
 Thanks!
