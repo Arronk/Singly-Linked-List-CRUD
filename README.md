@@ -1,4 +1,4 @@
-# Singly-Linked-List-CRUD
+# Singly-Linked-List-and-Hashtable-CRUD
 A little project I did to learn some basic data structures using C.
 
 - The SLL program files are: mystruct.h and sll.h
